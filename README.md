@@ -5,6 +5,7 @@
 - Dataset is taken from :  [Kaggle](https://www.kaggle.com/datasets/julian3833/jigsaw-toxic-comment-classification-challenge?select=train.csv).
 - Dataset Licence :  CC0: Public Domain
 - Owner : Julián Peller
+- Since dataset is very large in size(>100mb) not available in this repo.
   
 ### Problem Statement
 - In today’s digital world, the internet is flooded with toxic comments and misleading posts.
