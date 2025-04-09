@@ -22,5 +22,6 @@ This is a humble attempt to develop an AI model that can detect such harmful con
 6. WordNetLemmatizer model(Lematizer) : to get the root of the words.
 
 ### ACCURACY : 90.54 (First - simple approach)
+[NOTE BOOK](https://www.kaggle.com/code/vaishnavkrishnap/toxic-comment-classifier-90-accuracy)
    
 - Note : Used jupyter notebook so, computationally very hard so, have to do it in colab and save the clean text for the further model generation.
