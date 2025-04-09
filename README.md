@@ -1,7 +1,7 @@
 ### AI BASED SOCIAL MEDIA MONITORING
 #### AUTHOR : VAISHNAV KRISHNA P
 
-### DATASET 
+### DATASET - TOXIC COMMENT DETECTION
 - Dataset is taken from :  [Kaggle](https://www.kaggle.com/datasets/julian3833/jigsaw-toxic-comment-classification-challenge?select=train.csv).
 - Dataset Licence :  CC0: Public Domain
 - Owner : Julián Peller
