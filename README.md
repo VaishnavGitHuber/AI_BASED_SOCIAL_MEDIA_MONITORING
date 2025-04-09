@@ -12,7 +12,7 @@
 This is a humble attempt to develop an AI model that can detect such harmful content early, helping prevent the spread of misinformation.
 - The model leverages NLP (Natural Language Processing) techniques to identify toxicity in posts and protect users from its impact.
 
-### DATA PREPROCESSING - C
+### MODEL 1 DATA PREPROCESSING(TOXIC COMMENT DETECTION)
 - Data preprocessing techniques used for this model.
 1. Converting all text to lower case(python)
 2. Autocorrect(Speller) model to correct the spelling
