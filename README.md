@@ -20,5 +20,7 @@ This is a humble attempt to develop an AI model that can detect such harmful con
 4. Removing all the numbers, special charectors, punctation marks(using Regular expression)
 5. Stopwords(nltk)
 6. WordNetLemmatizer model(Lematizer) : to get the root of the words.
+
+### ACCURACY : 90.54 (First - simple approach)
    
 - Note : Used jupyter notebook so, computationally very hard so, have to do it in colab and save the clean text for the further model generation.
